@@ -1,6 +1,6 @@
 
 > [!WARNING]
-> ini masih uji coba mohon maaf kalau ada hal hal yang kurang enak di pakai sepemuhnya ini ujicobaku ada update menyusul awokawokawok
+> ini masih uji coba mohon maaf kalau ada hal hal yang kurang enak di pakai sepenuhnya ini uji cobaku ada update menyusul kalau sempat awokawokawok
 
 # wabotQ-test-
 `
@@ -42,7 +42,7 @@ git clone https://github.com/MiminCat/wabotQ-test-.git
 
 setelah itu :
 ```bash
-cd wabotQ-test-
+cd wabotQ
 ```
 
 lalu install modul library nya :
@@ -54,6 +54,14 @@ npm install qrcode-terminal
 
 jalankan :
 ```
+node index
+```
+
+
+> lalu ya semisal ingin menjalankan sewaktu waktu tinggal
+
+```bash
+cd botwaQ
 node index.js
 ```
 
