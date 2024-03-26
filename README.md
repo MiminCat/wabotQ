@@ -1,11 +1,16 @@
-> [!WARNING]  
+
+> [!WARNING]
 > ini masih uji coba mohon maaf kalau ada hal hal yang kurang enak di pakai sepemuhnya ini ujicobaku ada update menyusul awokawokawok
 
 # wabotQ-test-
-
+`
+ <ujicoba>
+`
 ## Deskripsi
+
 Test pertamaku membuat bot wa menggunakan library baileys.
 ini masih pertamakali aku membuat projek mungkin agak bruntal `eror` nya hehe hanya uji coba tetapi bisa di pakai, maaf kalau banyak bug dan belum full version, aku membuat di Hp menggunakan bantuan ChatGPT.
+
 
 ## Fitur
 
@@ -19,27 +24,41 @@ apt update && apt upgrade
 ```
 
 lalu kalau perlu cek :
-```pkg update && pkg upgrade```
+```bash
+pkg update && pkg upgrade
+```
 
 jangan lupa :
-```pkg install git```
-```pkg ibstall nodejs```
+```
+pkg install git
+
+pkg install nodejs
+```
 
 terus download file nya :
-```git clone https://github.com/MiminCat/wabotQ-test-.git```
+```
+git clone https://github.com/MiminCat/wabotQ-test-.git
+```
 
 setelah itu :
-```cd wabotQ```
+```bash
+cd wabotQ
+```
 
 lalu install modul library nya :
-```npm install @whiskeysockets/baileys```
+```
+npm install @whiskeysockets/baileys
 
-```npm install qrcode-terminal```
+npm install qrcode-terminal
+```
 
 jalankan :
-```node index.js```
+```
+node index.js
+```
 
-##info
+## info
+
 aku membuat ini sebagai latihan mungkin sebagian besar mengalami `eror` pastinya
 
 
