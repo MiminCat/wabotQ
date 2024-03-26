@@ -14,7 +14,9 @@ ini masih pertamakali aku membuat projek mungkin agak bruntal `eror` nya hehe ha
 ## Instalasi
 
 pertama tama lakukan ini :
-```apt update && apt upgrade```
+```bash 
+apt update && apt upgrade
+```
 
 lalu kalau perlu cek :
 ```pkg update && pkg upgrade```
