@@ -4,7 +4,7 @@
 
 # wabotQ-test-
 `
- <ujicoba>
+ <ujicoba> <ditesdi Termux>
 `
 ## Deskripsi
 
