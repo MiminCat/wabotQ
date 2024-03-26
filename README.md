@@ -42,7 +42,7 @@ git clone https://github.com/MiminCat/wabotQ-test-.git
 
 setelah itu :
 ```bash
-cd wabotQ
+cd wabotQ-test-
 ```
 
 lalu install modul library nya :
